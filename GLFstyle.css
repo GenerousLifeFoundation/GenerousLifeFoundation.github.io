@@ -1,0 +1,95 @@
+h1 {
+	background-color: rgba(0, 0, 255, 0.4);
+	margin-top: 0px;
+	color: gold;
+	padding-bottom: 30px;
+	padding-top: 20px
+}
+
+a {
+	text-decoration: none;
+	margin-bottom: 50px;
+	display: flex;
+	background-color: rgba(0, 0, 255, 0.4);
+	width: 100px;
+	align-items: center;
+	display: inline-block;
+	margin-right: 80px;
+	text-align: center;
+	padding: 0px 20px;
+	color: gold;
+}
+
+.a {
+	text-decoration: none;
+	margin-bottom: 50px;
+	display: flex;
+	background-color: rgba(0, 0, 255, 0.4);
+	width: 100px;
+	align-items: center;
+	display: inline-block;
+	margin-right: 80px;
+	text-align: center;
+	padding: 0px 20px;
+	color: gold;
+	cursor: pointer;
+}
+
+body {
+	background-color: rgba(58, 50, 118, 0.1);
+	text-align: center;
+}
+
+.ph1 {
+	color: gold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+.img1 {
+	width: 120px;
+	height:100px;
+	padding-left: 10px;
+	float: left;
+	border-radius: 50%;
+}
+
+a:hover {
+	transform: scale(1.1);
+}
+
+.bodyimage {
+	width: 300px;
+	height: 250px;
+	margin-right: 50px;
+	transition: all 1s;
+}
+
+.bodyimage:hover {
+	transform: scale(1.1);
+}
+
+p {
+	color: rgb(0, 0, 255);
+	font-family: 'Libre Baskerville', serif;
+}
+
+.p1 {
+	color: black;
+	font-family: 'Xanh Mono', monospace;
+}
+
+.executives:hover {
+	transform: scale(1.1);
+	margin: 10px;
+}
+
+.h3 {
+	color: rgb(0, 0, 255);
+}
+
+footer {
+	font-family: 'Nerko One', cursive;
+	color: rgb(0, 0, 255);
+}

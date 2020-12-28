@@ -1,0 +1,57 @@
+h1 {
+	background-color: rgba(158, 48, 51, 0.4);
+	margin-top: 0px;
+	color: rgba(0, 255, 251, 0.5);
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	padding: 5px 5px;
+}
+
+
+body {
+	text-align: center;
+	background-color: rgba(255, 0, 0, 0.2);
+}
+
+.img1 {
+	float: left;
+	border-radius: 50%;
+	width: 100px;
+	height: 70px;
+}
+
+.p1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+
+img {
+	margin: 10px;
+	transition: all 1s;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+.a1 {
+	display: flex;
+	flex-direction: flex-start;
+	text-decoration: none;
+}
+
+a {
+	display: flex;
+	align-items: flex-start;
+	color: rgb(158, 48, 51); 
+}
+
+p {
+	font-family: 'Courgette', cursive;
+}

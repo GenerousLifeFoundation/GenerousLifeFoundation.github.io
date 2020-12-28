@@ -1,0 +1,47 @@
+h1 {
+	background-color: rgba(170, 89, 57, 0.4);
+	margin-top: 0px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	color: rgba(43, 0, 255, 0.6)
+}
+
+body {
+	text-align: center;
+	background-color: rgba(38, 115, 86, 0.5);
+}
+
+.img1 {
+	float: left;
+	border-radius: 50%;
+	width: 100px;
+	height: 50px;
+}
+
+.p1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+img {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+
+h2 {
+	font-family: 'Playfair Display', serif;
+	color: rgb(56, 50, 118);
+}
+
+
+p {
+	font-family: 'Playfair Display', serif;
+}
+
+.button {
+	display: flex;
+	align-items: flex-start;
+	color: rgb(170, 89, 57);
+

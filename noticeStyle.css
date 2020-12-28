@@ -1,0 +1,50 @@
+h1 {
+	background-color: rgba(111, 37, 111, 0.5);
+	margin-top: 0px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+	color: rgba(0, 255, 76, 0.6);
+}
+body {
+	text-align: center;
+	background-color: rgba(170, 119, 57, 0.4);
+}
+img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+h3 {
+	color: rgb(60, 49, 118);
+	font-family: 'Roboto Mono', monospace;
+}
+
+.img1 {
+	float: left;
+	border-radius: 50%;
+	width: 100px;
+	height: 60px;
+}
+
+.p1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+.strong {
+	text-align: right;
+}
+
+.span1 {
+	float: right;
+}
+span {
+	color: rgb(130, 43, 102);
+}
+

@@ -1,0 +1,57 @@
+h1 {
+	background-color: rgba(43, 52, 110, 0.5);
+	margin-top: 0px;
+	color: rgba(0, 251, 255, 0.8);
+}
+body {
+	text-align: center;
+	background-color: rgba(0, 0, 255, 0.2);
+}
+
+h3 {
+	color: rgb(0, 0, 255);
+	font-family: 'Rubik', sans-serif;
+}
+
+.img1 {
+	float: left;
+	border-radius: 50%;
+	width: 100px;
+	height: 70px;
+}
+
+.p1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+.pics {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.images {
+	margin: 10px 10px;
+	transition: all 1s;
+}
+
+.images:hover {
+	transform: scale(1.1);
+}
+
+a {
+	display: flex;
+	align-items: flex-start;
+	color: rgb(43, 52, 110);
+}
+
+p {
+	font-family: 'Merriweather', serif;
+}
+
+.h4 {
+	color: rgba(154, 0, 255, 0.8);
+	color: 
+}

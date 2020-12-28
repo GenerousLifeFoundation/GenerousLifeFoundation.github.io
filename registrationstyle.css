@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+	border-bottom: 2px solid blue;
+}
+
+body {
+	background-color: rgba(52, 52, 119, 0.2);
+}
+
+form {
+	text-align: center;	
+}
+
+a {
+	color: blue;
+}
+
+

@@ -1,0 +1,25 @@
+h1 {
+	background-color: rgba(43, 52, 110, 0.5);
+	margin-top: 0px;
+	color: rgba(0, 251, 255, 0.8);
+}
+	
+body {
+	text-align: center;
+	background-color: rgba(0, 0, 255, 0.2);
+}
+
+.pics {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.images {
+	margin: 10px 10px;
+	transition: all 1s;
+}
+
+.images:hover {
+	transform: scale(1.1);
+}
